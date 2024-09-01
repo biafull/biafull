@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biafullstack/)
 
 
-### Sou estudante do curso Técnico de Informática para Internet no Senac de São Miguel Paulista- São Paulo - SP, Brasil, onde estou aprofundando meus conhecimentos em tecnologias essenciais para o desenvolvimento web. Estou ativamente envolvido em projetos utilizando HTML, CSS, JavaScript, jQuery, MySQL, SQL, Oracle, e ferramentas da Microsoft. Estou em processo de aprendizado, desenvolvendo habilidades tanto em Front End quanto em Back End, e buscando aplicar esses conhecimentos para contribuir em soluções tecnológicas inovadoras.
+### Sou estudante do curso Técnico de Informática para Internet no Senac de São Miguel Paulista, São Paulo - SP - Brasil, onde estou aprofundando meus conhecimentos em tecnologias essenciais para o desenvolvimento web. Estou ativamente envolvido em projetos utilizando HTML, CSS, JavaScript,PHP, jQuery, MySQL, SQL, Oracle, e ferramentas da Microsoft. Estou em processo de aprendizado, desenvolvendo habilidades tanto em Front End quanto em Back End, e buscando aplicar esses conhecimentos para contribuir em soluções tecnológicas inovadoras.
 
 <div style="display: inline_block"> <br/>
 <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
